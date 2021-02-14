@@ -1,0 +1,24 @@
+{
+  "name": "coca-cola",
+  "version": "1.0.0",
+  "description": "Pagina web de Coca cola",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yleyesb0321/coca-cola.git"
+  },
+  "author": "Yecid Leyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yleyesb0321/coca-cola/issues"
+  },
+  "homepage": "https://github.com/Yleyesb0321/coca-cola#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "lite-server": "^2.6.1"
+  }
+}
